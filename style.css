@@ -4,7 +4,7 @@ body{
     background-color: #fbdfc8;
     height: 100vh;
     display: flex;
-    background: #fbdfc8 url(img/img.png) repeat-y right top;
+    background: #fbdfc8 url(img.png) repeat-y right top;
     
 }
 
@@ -76,7 +76,7 @@ img{
     background-color: #fbdfc8;
     height: 100vh;
     display: flex;
-    background: #fbdfc8 url(img/img23.png) repeat-x center bottom;
+    background: #fbdfc8 url(img23.png) repeat-x center bottom;
     }
 
     .content{
@@ -100,4 +100,5 @@ img{
 }
 
 }
+
 
